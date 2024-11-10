@@ -5,7 +5,7 @@ title: Talk Therapy for Midlife Indie Developer
 timezone: America/Boise
 incremental: false
 highlighter: rouge
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/midnight@v0.2.0
 strict_front_matter: true
 gist:
   noscript: false

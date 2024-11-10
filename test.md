@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: Testing a first thing
 ---
-
-# Testing a first thing
 
 We need some Lorem Ipsum here
