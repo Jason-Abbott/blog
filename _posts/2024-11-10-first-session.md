@@ -4,8 +4,6 @@ title: Our First Session
 published: true
 tags: mood
 ---
-![frosty](/assets/images/2024-11-10-first-session.jpg)
-
 Some days feel like doom and I don’t like it.
 
 For the last couple of months I’ve been working on my own, here at home, to finish building a software application. I’ll say more about that later.
