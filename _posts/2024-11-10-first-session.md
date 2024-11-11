@@ -18,6 +18,6 @@ Those were always frustrating experiences but also typical. It’s how building 
 
 I have an idea—at least a hope—that writing can put them in a more sensible, less alarming light.
 
-So far it’s a failure. The couple hours it took to set up this blogging thing are feeling so far like more of the not-productive-time-that-will-cause-disaster.
+So far it’s a failure. The couple hours it took to set up this blogging thing are feeling like more of the not-productive-time-that-will-cause-disaster.
 
 Maybe I’ll keep at it, though.
