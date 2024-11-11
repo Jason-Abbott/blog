@@ -2,8 +2,9 @@
 layout: post
 title: Our First Session
 published: true
+tags: mood
 ---
-![frosty](/assets/images/kirkham-a-la-mode_014-of-018.jpg)
+![frosty](/assets/images/2024-11-10-first-session.jpg)
 
 Some days feel like doom and I don’t like it.
 
